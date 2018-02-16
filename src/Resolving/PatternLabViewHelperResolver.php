@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
-namespace NamelessCoder\FluidPatternEngine\Resolving;
+namespace Cobweb\FluidPatternEngine\Resolving;
 
-use NamelessCoder\FluidPatternEngine\Emulation\EmulatingViewHelper;
-use NamelessCoder\FluidPatternEngine\Hooks\HookManager;
+use Cobweb\FluidPatternEngine\Emulation\EmulatingViewHelper;
+use Cobweb\FluidPatternEngine\Hooks\HookManager;
 use PatternLab\Config;
 use TYPO3Fluid\Fluid\Core\ViewHelper\Exception;
 use TYPO3Fluid\Fluid\Core\ViewHelper\ViewHelperResolver;

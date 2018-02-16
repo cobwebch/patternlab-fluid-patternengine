@@ -1,7 +1,7 @@
 <?php
-namespace NamelessCoder\FluidPatternEngine\Emulation;
+namespace Cobweb\FluidPatternEngine\Emulation;
 
-use NamelessCoder\FluidPatternEngine\PatternEngineRule;
+use Cobweb\FluidPatternEngine\PatternEngineRule;
 use PatternLab\Config;
 use TYPO3Fluid\Fluid\Core\Rendering\RenderingContextInterface;
 use TYPO3Fluid\Fluid\Core\ViewHelper\TagBuilder;

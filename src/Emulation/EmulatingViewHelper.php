@@ -1,5 +1,5 @@
 <?php
-namespace NamelessCoder\FluidPatternEngine\Emulation;
+namespace Cobweb\FluidPatternEngine\Emulation;
 
 use TYPO3Fluid\Fluid\Core\ViewHelper\AbstractViewHelper;
 

@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace NamelessCoder\FluidPatternEngine\Resolving;
+namespace Cobweb\FluidPatternEngine\Resolving;
 
 use PatternLab\Config;
 use PatternLab\PatternData;

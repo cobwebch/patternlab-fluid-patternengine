@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace NamelessCoder\FluidPatternEngine;
+namespace Cobweb\FluidPatternEngine;
 
 use \PatternLab\PatternEngine\Rule;
 
@@ -19,6 +19,6 @@ class PatternEngineRule extends Rule
         parent::__construct();
 
         $this->engineProp = "fluid";
-        $this->basePath   = "\\NamelessCoder\\FluidPatternEngine";
+        $this->basePath   = "\\Cobweb\\FluidPatternEngine";
     }
 }

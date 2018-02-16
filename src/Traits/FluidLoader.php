@@ -1,14 +1,14 @@
 <?php
 declare(strict_types=1);
 
-namespace NamelessCoder\FluidPatternEngine\Traits;
+namespace Cobweb\FluidPatternEngine\Traits;
 
-use NamelessCoder\FluidPatternEngine\Emulation\EmulatingTemplateParser;
-use NamelessCoder\FluidPatternEngine\Emulation\PatternLabViewHelperInvoker;
-use NamelessCoder\FluidPatternEngine\Hooks\HookManager;
-use NamelessCoder\FluidPatternEngine\PatternEngineRule;
-use NamelessCoder\FluidPatternEngine\Resolving\PatternLabTemplatePaths;
-use NamelessCoder\FluidPatternEngine\Resolving\PatternLabViewHelperResolver;
+use Cobweb\FluidPatternEngine\Emulation\EmulatingTemplateParser;
+use Cobweb\FluidPatternEngine\Emulation\PatternLabViewHelperInvoker;
+use Cobweb\FluidPatternEngine\Hooks\HookManager;
+use Cobweb\FluidPatternEngine\PatternEngineRule;
+use Cobweb\FluidPatternEngine\Resolving\PatternLabTemplatePaths;
+use Cobweb\FluidPatternEngine\Resolving\PatternLabViewHelperResolver;
 use PatternLab\Config;
 use TYPO3Fluid\Fluid\View\TemplateView;
 

@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NamelessCoder\\FluidPatternEngine\\": "src/"
+            "Cobweb\\FluidPatternEngine\\": "src/"
         }
     }
 }

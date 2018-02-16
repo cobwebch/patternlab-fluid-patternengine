@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace NamelessCoder\FluidPatternEngine\Hooks;
+namespace Cobweb\FluidPatternEngine\Hooks;
 
 use TYPO3Fluid\Fluid\View\ViewInterface;
 

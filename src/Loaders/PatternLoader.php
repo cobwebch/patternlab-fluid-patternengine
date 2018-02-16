@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
-namespace NamelessCoder\FluidPatternEngine\Loaders;
+namespace Cobweb\FluidPatternEngine\Loaders;
 
-use NamelessCoder\FluidPatternEngine\Hooks\HookManager;
-use NamelessCoder\FluidPatternEngine\Traits\FluidLoader;
+use Cobweb\FluidPatternEngine\Hooks\HookManager;
+use Cobweb\FluidPatternEngine\Traits\FluidLoader;
 use \PatternLab\PatternEngine\Loader;
 use TYPO3Fluid\Fluid\Exception;
 
